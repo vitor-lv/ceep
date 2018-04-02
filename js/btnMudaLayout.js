@@ -28,11 +28,3 @@ btnMudaLayout.addEventListener('click', () => {
 
 
 
-
-// btnMudaLayout.addEventListener('click', function() {
-//   if (this.textContent.trim() === 'Linhas') {
-//     this.textContent = 'Blocos'
-//   } else {
-//     this.textContent = 'Linhas'
-//   }
-// })
