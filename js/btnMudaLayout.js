@@ -14,7 +14,6 @@ btnMudaLayout.addEventListener('click', () => {
 	  }
 
 	  mural.classList.toggle('mural--linha') 
-	  // toogle = remove & add - switching
 
 	})
 
